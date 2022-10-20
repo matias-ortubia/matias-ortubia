@@ -1,3 +1,5 @@
+![Logo](https://i.pinimg.com/originals/43/98/42/4398425c151674a772ed49ba5d9d5f03.gif)
+
 ###  :eyes: Hi there!
 ---
 I'm Mati, Fullstack Dev from Buenos Aires, Argentina :computer: 
@@ -15,6 +17,11 @@ I'm Mati, Fullstack Dev from Buenos Aires, Argentina :computer:
 ### :telescope: Contact me on
 ---
 [LinkedIn](https://www.linkedin.com/in/matiasortubia) - [email](mailto:matiortubia@gmail.com) - [GitHub](https://www.github.com/matiasortubia)
+
+<!-- TODO 
+* Add interests
+* Add things I'm currently learning
+-->
 
 <!--
 **matiasortubia/matiasortubia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
