@@ -1,4 +1,20 @@
-### Hi there 👋
+###  :eyes: Hi there!
+---
+I'm Mati, Fullstack Dev from Buenos Aires, Argentina :computer: 
+
+### :stars: Skills
+---
+* :space_invader: Languages: Python, JavaScript, Java, C
+* :milky_way: Frameworks: Django, Flask, React
+
+### :rocket: Currently working on
+---
+* Delivery app proyect built in React
+* Tourism website built in Django
+
+### :telescope: Contact me on
+---
+[LinkedIn](https://www.linkedin.com/in/matiasortubia) - [email](mailto:matiortubia@gmail.com) - [GitHub](https://www.github.com/matiasortubia)
 
 <!--
 **matiasortubia/matiasortubia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
