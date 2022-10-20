@@ -2,7 +2,7 @@
 
 ###  :eyes: Hi there!
 ---
-I'm Mati, Fullstack Dev from Buenos Aires, Argentina :computer: 
+I'm Mati from Buenos Aires, Argentina :computer: 
 
 ### :stars: Skills
 ---
@@ -14,13 +14,14 @@ I'm Mati, Fullstack Dev from Buenos Aires, Argentina :computer:
 * Delivery app proyect built in React
 * Tourism website built in Django
 
-### :telescope: Contact me on
+### :telescope: Find me on
 ---
 [LinkedIn](https://www.linkedin.com/in/matiasortubia) - [email](mailto:matiortubia@gmail.com) - [GitHub](https://www.github.com/matiasortubia)
 
 <!-- TODO 
 * Add interests
 * Add things I'm currently learning
+* Add english and japanese level?
 -->
 
 <!--
