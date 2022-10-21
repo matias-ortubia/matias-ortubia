@@ -4,7 +4,7 @@
 ---
 I'm Mati from Buenos Aires, Argentina :man_dancing:
 
-:stars: Skills
+:night_with_stars: Skills
 ---
 * :space_invader: Languages: Python, JavaScript, Java, C
 * :milky_way: Frameworks: Django, Flask, React
@@ -14,7 +14,7 @@ I'm Mati from Buenos Aires, Argentina :man_dancing:
 * :motor_scooter: Delivery app proyect built in React
 * :city_sunset: Tourism website built in Django
 
-:night_with_stars: My goals
+:stars: My goals
 ---
 * :computer:  Becoming a Full Stack Developer
 
