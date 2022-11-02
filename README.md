@@ -1,8 +1,6 @@
-![Logo](https://i.pinimg.com/originals/43/98/42/4398425c151674a772ed49ba5d9d5f03.gif)
+# :eyes: Hi there! I'm Mati
 
-:eyes: Hi there!
----
-I'm Mati from Buenos Aires, Argentina :man_dancing:
+![Logo](https://i.pinimg.com/originals/43/98/42/4398425c151674a772ed49ba5d9d5f03.gif)
 
 :night_with_stars: Skills
 ---
@@ -26,7 +24,7 @@ I'm Mati from Buenos Aires, Argentina :man_dancing:
 
 :telescope: Find me on
 ---
-[LinkedIn](https://www.linkedin.com/in/matiasortubia) - [email](mailto:matiortubia@gmail.com) - [GitHub](https://www.github.com/matiasortubia)
+[LinkedIn](https://www.linkedin.com/in/matiasortubia) - [email](mailto:matiortubia@gmail.com)
 
 <!--
 **matiasortubia/matiasortubia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
