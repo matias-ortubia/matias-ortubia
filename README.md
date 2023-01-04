@@ -9,8 +9,7 @@
 
 :rocket: Currently working on
 ---
-* :motor_scooter: Delivery app proyect built in React
-* :city_sunset: Tourism website built in Django
+* 🪐: My Portfolio
 
 :stars: My goals
 ---
