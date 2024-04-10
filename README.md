@@ -2,19 +2,22 @@
 
 ![Logo](https://i.pinimg.com/originals/43/98/42/4398425c151674a772ed49ba5d9d5f03.gif)
 
-:night_with_stars: Skills
+🤸 Skills
 ---
-* :space_invader: Languages: Python, JavaScript, Java, C
-* :milky_way: Frameworks: ReactJs, Django, Flask 
+* 🪐 **Languages**: Java, Typescript, Javascript, Python, C
+* 👽 **Frontend Frameworks**: Angular, ReactJs
+* 🤖 **Backend Frameworks**: Spring, Django, Flask
+* 🌌 **Databases**: MongoDB, SQL
 
 :rocket: Currently working on
 ---
-* 🪐: My Portfolio
+* 🌃 My Portfolio
+* 👾 Wordle Game
 
 :stars: My goals
 ---
-* :computer:  Becoming a Full Stack Developer
+* :computer:  Learn new things everyday
 
-:telescope: Find me on
+:telescope: Find more on
 ---
-[LinkedIn](https://www.linkedin.com/in/matiasortubia) - [email](mailto:matiortubia@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/matiasortubia) - [My Portfolio](https://matias-ortubia.vercel.app/)
